@@ -1,11 +1,11 @@
 # Hi 👋, I'm Gabriel Sousa
 
-🚀 **Junior Front-End Developer | Next.js & TypeScript**  
+🚀 **Junior Front-End Developer**  
 🇧🇷 Brazil
 
 Learning and building projects with **Next.js**, **React**, **TypeScript**, **TailwindCSS**, and **Git**.
 
-Passionate about web development, clean interfaces, and constantly improving my coding skills.
+Passionate about web development, modern user interfaces, and constantly improving my coding skills.
 
 Currently looking to grow as a developer through real-world projects and new challenges.
 
